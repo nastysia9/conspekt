@@ -9,3 +9,4 @@
 
 <code>git pull</code> - скачать изменения с облака
 
+<code>git branch -M main </code>  создать ветку
